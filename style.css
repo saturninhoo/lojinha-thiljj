@@ -11,7 +11,3 @@ body {
     background: linear-gradient(90deg, rgba(229,231,155,1) 0%, rgba(223,184,171,1) 53%, rgba(152,245,130,1) 100%);
 }
 
-.produtos {
-    display: flex;
-    flex-direction: column;
-}
