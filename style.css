@@ -15,11 +15,6 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.produtos {
-    display: flex;
-    flex-direction: column;
-}
-
 .imagem1 {
     margin: 100px;
     margin-top: 100px;
