@@ -11,6 +11,10 @@ body {
     background: linear-gradient(90deg, rgba(229,231,155,1) 0%, rgba(223,184,171,1) 53%, rgba(152,245,130,1) 100%);
 }
 
+.tutulo-3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .produtos {
     display: flex;
     flex-direction: column;
@@ -59,6 +63,27 @@ body {
 .p {
     margin: 200px;
     font-family: 'Courier New', Courier, monospace;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
+    background-color: rgba(222, 172, 240, 0.548);
+}
+
+.p2 {
+    margin: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    background-color: rgba(222, 172, 240, 0.548);
+}
+
+.p3 {
+    margin: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    background-color: rgba(222, 172, 240, 0.548);
+}
+
+.p4 {
+    margin: 180px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
     background-color: rgba(222, 172, 240, 0.548);
 }
