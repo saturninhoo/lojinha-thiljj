@@ -22,7 +22,9 @@ body {
     margin: 5px;
 }
 
-.tutulo-3 {
+.tutulo-3 { 
+    margin-top: 10px;
+    margin: 50px;
     font-family: 'Times New Roman', Times, serif;
 }
 
