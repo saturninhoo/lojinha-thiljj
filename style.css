@@ -84,3 +84,15 @@ body {
     color: rgb(0, 0, 0);
     background-color: rgba(222, 172, 240, 0.548);
 }
+
+.tituloqs {
+    margin-top: 20px;
+    margin: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragrafo {
+    margin-top: 5px;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
